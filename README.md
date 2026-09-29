@@ -15,6 +15,8 @@ primeiro repositorio (teste)
 *segundo dados obtidos em uc.pt a 2026-09-29
 ```
 
+![grafico dos numeros da UC](/imagens/grafico1.jpg)
+
 ## Acerca
 Este repositorio foi feito no workshop de introdução do Github.
 
